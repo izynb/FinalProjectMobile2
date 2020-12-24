@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalProjectMobile2">
-        <activity android:name=".login"></activity>
+        <activity android:name=".note"></activity>
+        <activity android:name=".NoteActivity" />
+        <activity android:name=".login" />
         <activity android:name=".register" />
         <activity android:name=".MainActivity">
             <intent-filter>
